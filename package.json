@@ -1,0 +1,24 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "Node.js",
+  "main": "sever.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha-phantomjs": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runoob/runoob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runoob/runoob/issues"
+  },
+  "homepage": "https://github.com/runoob/runoob#readme"
+}
